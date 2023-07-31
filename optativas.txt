@@ -1,0 +1,71 @@
+ – Administração de Empresas de Informática
+ – Tópicos em Teoria dos Grafos
+ – Tópicos em Computação Gráfica
+ – Tópicos em Arquitetura de Computadores
+ – Tópicos em Banco de Dados
+CI088 – Tópicos em Sistemas Distribuídos
+CI089 – Tópicos em Teoria da Computação
+CI090 – Tópicos em Engenharia de Software>
+CI091 – Tópicos em Avaliação de Desempenho
+CI092 – Tópicos em Tecnologias e Aplicações
+CI093 – Tópicos em Análise Numérica
+CI094 – Tópicos em Processamento de Imagens
+CI095 – Tópicos em Compiladores
+CI097 – Tópicos em Sistemas Digitais
+CI167 – Sistemas de Informação em Saúde
+CI168 – Tópicos em Sistemas de Informação em Saúde
+CI169 – Bioinformática
+CI170 – Tópicos em Bioinformática
+CI171 – Aprendizado de Máquina
+CI172 – Processamento de Imagens Biomédicas
+CI173 – Computação Gráfica
+CI174 – Tópicos em Engenharia da Computação
+CI204 – Administração de Informática
+CI205 – Administração de Produção para Informática
+CI214 – Estrutura de Linguagens de Programação
+CI301 – Tópicos em Ciência da Computação I
+CI302 – Tópicos em Ciência da Computação II
+CI303 – Tópicos em Ciência da Computação III
+CI304 – Tópicos em Ciência da Computação IV
+CI305 – Tópicos em Ciência da Computação V
+CI306 – Tópicos em Ciência da Computação VI
+CI309 – Tópicos em Inteligência Artificial
+CI310 – Tópicos em Aprendizado de Máquina
+CI311 – Fundamentos Lógicos da Inteligência Artificial
+CI312 – Arquiteturas Avançadas de Computadores
+CI313 – Arquitetura de Computadores Paralelos
+CI314 – Introdução à Computação Paralela
+CI315 – Projeto de Sistemas Operacionais
+CI316 – Programação Paralela
+CI317 – Tópicos em Sistemas Operacionais
+CI318 – Tópicos em Computação Paralela
+CI320 – Tópicos em Programação de Computadores
+CI321 – Tópicos em Sistemas Embutidos
+CI337 – Tópicos em Matemática Discreta
+CI338 – Tópicos em Geometria Computacional
+CI339 – Complexidade Computacional
+CI340 – Tópicos em Métodos Formais
+CI350 – Interação Humano-Computador
+CI351 – Tópicos em Interação Humano-Computador
+CI355 – Tópicos em Algoritmos
+CI358 – Administração e Gerência de Redes de Computadores
+CI359 – Laboratório de Redes de Computadores
+CI360 – Redes Móveis
+CI361 – Sistemas Distribuídos
+CI362 – Sistemas Operacionais Distribuídos
+CI363 – Tópicos de Multimídia em Redes de Computadores
+CI364 – Tópicos em Computação em Rede
+CI365 – Tópicos em Redes de Computadores
+CI366 – Tópicos em Redes Móveis
+CI367 – Tópicos em Simulação de Sistemas Computacionais
+CI394 – Processamento de Imagens
+CI395 – Oficina de Visão Computacional e Processamento de Imagens
+CI396 – Tópicos em Visão Computacional
+ET082 – Comunicação em Língua Brasileira de Sinais
+CE211 – Processos Estocásticos
+CM043 – Cálculo III
+HL077 – Linguística e Comunicação
+SA017 – Administração III
+SC003 – Contabilidade Geral I
+SC202 – Contabilidade de Custos para Informática
+SC203 – Matemática Financeira para Informática

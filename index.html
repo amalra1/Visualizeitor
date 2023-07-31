@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Processador de polígonos</title>
+
+        <link rel="stylesheet" href="css/index.css">
+    </head>
+
+    <body>
+        <h1 class="title">Processador de polígonos</h1>
+
+        <div class="canvas-box">
+
+            <div class="instructions-box">
+
+                <h2 class="instructions-title">- Funcionamento</h2>
+
+                <p class="instructions">
+                    Clique e segure o botão esquerdo do mouse em uma reta para movê-la; <br><br>
+
+                    Clique e segure o botão esquerdo do mouse na ponta de uma reta para <br>
+                    modificar seu tamanho e orientação; <br><br>
+
+                    Clique com o botão direito em um ponto da reta para dividi-la em dois. <br><br>
+
+                </p>
+
+                <div class="input-box">
+
+                    <p>Digite o número de lados do polígono inicial (3 a 8)</p>
+
+                    <div class="input-text-box">
+                        <input type="text" id="sides-number">
+
+                        <button type="submit" onclick="criaPoligono()">Criar Polígono</button>
+                    </div>
+
+                </div>
+
+                <p class="footer"> Desenvolvido por Pedro Amaral</p>
+
+            </div>
+
+            <canvas id="canvas" width="600" height="600"></canvas>
+        </div>
+        <script type="text/javascript" src="./canvas.js"></script>
+    </body>
+
+</html>
