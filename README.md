@@ -1,2 +1,2 @@
 # Visualizeitor
-Simple subjects visualizer for college made with Javascript
+A visualizer for students to see their subjects in college.
